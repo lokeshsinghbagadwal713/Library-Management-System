@@ -43,8 +43,6 @@ LibraryManagementSystem/
 ├── LibraryManagementSystem.jar
 └── README.md
 
-yaml
-Copy code
 
 ---
 
